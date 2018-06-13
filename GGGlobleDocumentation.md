@@ -1,159 +1,19 @@
 ### GGGloble文档介绍
 
-GGGloble是项目的全局配置模块，它包括Utils、MessageCenter、GGMoudleConfigs等模块
+GGGloble是项目的全局公用模块，它包括主要包括项目中用到的一些工具、通知以及模组的配置。  
 
-#### [1、Utils工具类](#1、myUtils)
-#### [2、MessageCenter通知类](#2、MessageCenter)
-#### [3、GGMoudleConfigs配置类](#3、GGMoudleConfigs)
+ >GGGloble.h主要是对项目的基础宏定义和基础方法实现
 
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
+#### 1、Utils工具类
+#### 2、MessageCenter通知类
+#### 3、GGMoudleConfigs配置类
 
-##### 1、myUtils
 
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.
+##### 1、Utils
+
+
 ##### 2、MessageCenter
 
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.
+
 
 ##### 3、GGMoudleConfigs
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.  
-GGGloble是项目的全局配置模块  
-，它包括Utils  
-、MessageCenter  
-、GGMoudleConfigs等模块.
