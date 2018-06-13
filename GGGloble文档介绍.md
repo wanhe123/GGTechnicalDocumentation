@@ -40,6 +40,7 @@ Utils 里面放置一些常用的工具类
 ##### 3、GGMoudleConfigs配置类
 >GGWebViewConfig WebView文件配置  
 >GGWebConfig 网页链接配置与跳转配置以及协议  
+>GGChatConfig 聊天文件配置与协议  
 >GGSubscriberConfig 订阅者配置以与协议  
 >GGHttpConfig 网络环境配置与协议  
 >GGStockConfig 股票文件配置与协议
