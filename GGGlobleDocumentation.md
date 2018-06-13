@@ -2,7 +2,7 @@
 
 GGGloble是项目的全局配置模块，它包括Utils、MessageCenter、GGMoudleConfigs等模块
 
-#### [1、Utils工具类](#1、Utils)
+#### [1、Utils工具类](#1、myUtils)
 #### [2、MessageCenter通知类](#2、MessageCenter)
 #### [3、GGMoudleConfigs配置类](#3、GGMoudleConfigs)
 
@@ -43,7 +43,7 @@ GGGloble是项目的全局配置模块
 、MessageCenter  
 、GGMoudleConfigs等模块.  
 
-##### 1、Utils
+##### 1、myUtils
 
 GGGloble是项目的全局配置模块  
 ，它包括Utils  
