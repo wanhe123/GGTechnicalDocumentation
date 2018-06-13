@@ -4,6 +4,27 @@ GGGloble是项目的全局公用模块，它包括主要包括项目中用到的
 
  >GGGloble.h主要是对项目的基础宏定义和基础方法实现
 
+```
+.
+├── GGGloble
+│   ├── GGGloble
+│   ├── Utils 
+│   ├── MessageCenter  
+│   │   ├── GGStock
+│   │   └── GGSubscriber
+│   └── GGMoudleConfigs
+│       ├── GGWebViewConfig
+│       ├── GGWebConfig
+│       ├── GGChatConfig
+│       ├── GGSubscriberConfig
+│       ├── GGHttpConfig
+│       └── GGStockConfig
+│         
+│   
+│     
+└── OtherFiles
+
+```
 
 ##### 1、Utils工具类
 Utils 里面放置一些常用的工具类  
