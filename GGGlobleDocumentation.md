@@ -4,16 +4,14 @@ GGGloble是项目的全局公用模块，它包括主要包括项目中用到的
 
  >GGGloble.h主要是对项目的基础宏定义和基础方法实现
 
-#### 1、Utils工具类
-#### 2、MessageCenter通知类
-#### 3、GGMoudleConfigs配置类
 
+##### 1、Utils工具类
+Utils 里面放置一些常用的工具类
+>StockToastHelper loading工具类(旋转的蓝色菊花)
+>TimeConversion 时间转换类
 
-##### 1、Utils
-
-
-##### 2、MessageCenter
+##### 2、MessageCenter通知类
 
 
 
-##### 3、GGMoudleConfigs
+##### 3、GGMoudleConfigs配置类
