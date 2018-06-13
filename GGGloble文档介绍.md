@@ -19,9 +19,7 @@ GGGloble是项目的全局公用模块，它包括主要包括项目中用到的
 │       ├── GGSubscriberConfig
 │       ├── GGHttpConfig
 │       └── GGStockConfig
-│         
-│   
-│     
+│             
 └── OtherFiles
 
 ```
